@@ -1,4 +1,4 @@
-#Steps
+# SEED
 
 1 - Go to https://seed.run/.
 
