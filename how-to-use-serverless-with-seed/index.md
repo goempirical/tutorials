@@ -8,4 +8,4 @@
 
 4 - You will see the following screen
 
-![Main Screen](/images/1-main-screen.png)
+![Main Screen](images/1-main-screen.png)
